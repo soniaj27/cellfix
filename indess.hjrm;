@@ -1,0 +1,423 @@
+  <section id="home" class="hero fade-in">
+        <div class="carousel-container">
+            <div class="carousel-slide">
+                <img src="https://placehold.co/1200x550/007bff/FFFFFF?text=Expert+Mobile+Repair" alt="Mobile Repair Service 1">
+                <div class="carousel-caption">
+                    <h1 class="slide-in-top">Your Trusted Mobile & Watch Repair Experts in Vakola</h1>
+                    <p class="slide-in-bottom">Swift, reliable, and high-quality repair services for all your mobile phones and watches.</p>
+                    <div class="hero-buttons">
+                        <a href="#services" class="button fade-in-left">Explore Services</a>
+                        <a href="#contact" class="button secondary fade-in-right">Get a Quote</a>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-slide">
+                <img src="https://placehold.co/1200x550/28a745/FFFFFF?text=Precision+Watch+Care" alt="Watch Repair Service 2">
+                <div class="carousel-caption">
+                    <h1 class="slide-in-top">Precision Care for Your Cherished Watches</h1>
+                    <p class="slide-in-bottom">From battery replacements to intricate mechanical fixes, we handle it all with expertise.</p>
+                    <div class="hero-buttons">
+                        <a href="#services" class="button fade-in-left">Our Watch Services</a>
+                        <a href="#contact" class="button secondary fade-in-right">Book a Repair</a>
+                    </div>
+                </div>
+            </div>
+            <div class="carousel-slide">
+                <img src="https://placehold.co/1200x550/6c757d/FFFFFF?text=Quality+Accessories+Available" alt="Accessories Showcase 3">
+                <div class="carousel-caption">
+                    <h1 class="slide-in-top">Wide Range of Mobile & Watch Accessories</h1>
+                    <p class="slide-in-bottom">Find the perfect accessories to complement and protect your devices.</p>
+                    <div class="hero-buttons">
+                        <a href="#accessories" class="button fade-in-left">Shop Accessories</a>
+                        <a href="#contact" class="button secondary fade-in-right">Visit Our Store</a>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-prev"><i class="fas fa-chevron-left"></i></button>
+            <button class="carousel-next"><i class="fas fa-chevron-right"></i></button>
+            <div class="carousel-dots"></div>
+        </div>
+    </section>
+
+    <section id="about" class="about-section fade-in-section">
+        <div class="container">
+            <h2>About Cellfix</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <p>At Cellfix, we pride ourselves on being Mumbai's leading destination for mobile and watch repairs. Located conveniently near Vakola, Santacruz East, we've been serving the community with dedication and expertise for years.</p>
+                    <p>Our mission is simple: to provide unparalleled repair services that bring your devices back to life quickly and efficiently. We understand the importance of your mobile phones and watches in your daily routine, which is why we commit to using genuine parts and employing skilled technicians.</p>
+                    <p>From cracked screens and battery issues to complex internal diagnostics, our team is equipped to handle a wide array of problems. Beyond repairs, we offer a curated selection of new and pre-owned mobiles, ensuring you find a device that fits your needs and budget. Plus, our extensive range of accessories keeps you connected and stylish.</p>
+                    <p>Come visit us and experience the Cellfix difference – where quality meets convenience!</p>
+                </div>
+                <div class="about-image animated-item">
+                    <!-- Placeholder image: Replace with a relevant image of a repair shop interior, technician working, or diverse mobile/watch repair tools -->
+                    <img src="https://placehold.co/450x350/E9D4D4/800000?text=Expert+Repair+Services" alt="Cellfix Repair Shop">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services" class="services-section fade-in-section">
+        <div class="container">
+            <h2>Our Comprehensive Services</h2>
+            <div class="services-grid">
+                <div class="service-item animated-item">
+                    <i class="fas fa-mobile-alt"></i>
+                    <h3>Mobile Phone Repair</h3>
+                    <p>Expert diagnosis and repair for all smartphones, including software issues, charging problems, and water damage.</p>
+                </div>
+                <div class="service-item animated-item">
+                    <i class="fas fa-tablet-alt"></i>
+                    <h3>Screen & Display Replacement</h3>
+                    <p>Fast and precise replacement of broken or faulty screens for mobiles and tablets, restoring crystal-clear visuals.</p>
+                </div>
+                <div class="service-item animated-item">
+                    <i class="fas fa-watch"></i>
+                    <h3>Watch Repair Services</h3>
+                    <p>From battery replacements and strap adjustments to intricate mechanical repairs for all types of watches.</p>
+                </div>
+                <div class="service-item animated-item">
+                    <i class="fas fa-battery-full"></i>
+                    <h3>Battery Replacement</h3>
+                    <p>Revitalize your device's lifespan with quick and efficient battery replacements for mobiles and smartwatches.</p>
+                </div>
+                <div class="service-item animated-item">
+                    <i class="fas fa-wifi"></i>
+                    <h3>Network & Software Issues</h3>
+                    <p>Troubleshooting and fixing connectivity problems, software glitches, and operating system errors.</p>
+                </div>
+                <div class="service-item animated-item">
+                    <i class="fas fa-exchange-alt"></i>
+                    <h3>New & Used Mobile Sales</h3>
+                    <p>Discover a range of new models and quality pre-owned mobile phones at competitive prices.</p>
+                </div>
+            </div>
+            <div class="why-choose-us">
+                <h3>Why Choose Cellfix?</h3>
+                <div class="reasons-grid">
+                    <div class="reason-item animated-item">
+                        <i class="fas fa-thumbs-up"></i>
+                        <h4>Experienced Technicians</h4>
+                        <p>Our team comprises highly skilled and certified professionals.</p>
+                    </div>
+                    <div class="reason-item animated-item">
+                        <i class="fas fa-check-circle"></i>
+                        <h4>Quality Guaranteed</h4>
+                        <p>We use only genuine parts for lasting repairs and offer warranty on services.</p>
+                    </div>
+                    <div class="reason-item animated-item">
+                        <i class="fas fa-hourglass-half"></i>
+                        <h4>Fast Turnaround</h4>
+                        <p>Most repairs are completed on the same day, minimizing your downtime.</p>
+                    </div>
+                    <div class="reason-item animated-item">
+                        <i class="fas fa-money-bill-wave"></i>
+                        <h4>Competitive Pricing</h4>
+                        <p>Premium service without the premium price tag.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="process" class="process-section fade-in-section">
+        <div>
+            <h2>Our Simple Repair Process</h2>
+            <div class="process-steps">
+                <div class="step-item animated-item">
+                    <div class="icon-circle"><i class="fas fa-search"></i></div>
+                    <h3>1. Diagnose</h3>
+                    <p>Bring your device in, and our experts will quickly diagnose the issue and provide a transparent quote.</p>
+                </div>
+                <div class="step-item animated-item">
+                    <div class="icon-circle"><i class="fas fa-cogs"></i></div>
+                    <h3>2. Repair</h3>
+                    <p>Upon your approval, we proceed with the repair using high-quality, genuine parts.</p>
+                </div>
+                <div class="step-item animated-item">
+                    <div class="icon-circle"><i class="fas fa-check-double"></i></div>
+                    <h3>3. Test & Quality Check</h3>
+                    <p>Every repaired device undergoes rigorous testing to ensure optimal functionality and quality.</p>
+                </div>
+                <div class="step-item animated-item">
+                    <div class="icon-circle"><i class="fas fa-handshake"></i></div>
+                    <h3>4. Deliver</h3>
+                    <p>Collect your perfectly repaired device, ready to use, often on the same day!</p>
+                </div>
+            </div>
+            <div class="cta-banner animated-item">
+                <h3>Ready to Get Your Device Fixed?</h3>
+                <p>Don't let a broken device slow you down. Contact us today for a quick and reliable repair!</p>
+                <a href="#contact" class="button">Book Your Repair Now!</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="work" class="work-section fade-in-section">
+        <div class="container">
+            <h2>Our Work: Before & After</h2>
+            <p class="section-description">See the quality and precision we put into every repair. From cracked screens to complex internal fixes, we bring devices back to life.</p>
+            <div class="work-grid">
+                <div class="work-card animated-item">
+                    <img src="https://placehold.co/400x300/e0e0e0/555555?text=Screen+Repair" alt="Screen Repair Example">
+                    <div class="card-content">
+                        <h4>Shattered Screen Repair</h4>
+                        <p>Restored a severely cracked mobile screen to its original pristine condition.</p>
+                    </div>
+                </div>
+                <div class="work-card animated-item">
+                    <img src="https://placehold.co/400x300/c0c0c0/333333?text=Water+Damage" alt="Water Damage Repair Example">
+                    <div class="card-content">
+                        <h4>Water Damage Restoration</h4>
+                        <p>Successfully revived a water-damaged smartphone, bringing it back online.</p>
+                    </div>
+                </div>
+                <div class="work-card animated-item">
+                    <img src="https://placehold.co/400x300/a0a0a0/111111?text=Battery+Replacement" alt="Battery Replacement Example">
+                    <div class="card-content">
+                        <h4>Battery Replacement</h4>
+                        <p>Replaced an old, worn-out battery for extended device life and performance.</p>
+                    </div>
+                </div>
+                <div class="work-card animated-item">
+                    <img src="https://placehold.co/400x300/808080/000000?text=Watch+Overhaul" alt="Watch Overhaul Example">
+                    <div class="card-content">
+                        <h4>Vintage Watch Overhaul</h4>
+                        <p>Complete servicing and repair of a classic timepiece, restoring its functionality.</p>
+                    </div>
+                </div>
+                <div class="work-card animated-item">
+                    <img src="https://placehold.co/400x300/606060/FFFFFF?text=Camera+Fix" alt="Camera Repair Example">
+                    <div class="card-content">
+                        <h4>Camera Lens Repair</h4>
+                        <p>Fixed a blurry camera lens, ensuring sharp and clear photos once again.</p>
+                    </div>
+                </div>
+                <div class="work-card animated-item">
+                    <img src="https://placehold.co/400x300/404040/EEEEEE?text=Port+Repair" alt="Charging Port Repair Example">
+                    <div class="card-content">
+                        <h4>Charging Port Repair</h4>
+                        <p>Repaired a faulty charging port, allowing seamless power connections.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="cta-banner animated-item">
+                <h3>Your Device Could Be Next!</h3>
+                <p>Have a damaged device? Let our experts take a look and provide a professional solution.</p>
+                <a href="#contact" class="button secondary">Get a Free Diagnosis</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="accessories" class="accessories-section fade-in-section">
+        <div class="container">
+            <h2>Mobile & Watch Accessories</h2>
+            <p class="section-description">Complete your mobile and watch experience with our diverse range of high-quality accessories:</p>
+            <div class="accessories-grid">
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-headphones"></i>
+                    <h4>Headphones & Earphones</h4>
+                    <p>From wired to wireless, discover superior sound quality.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-bluetooth-b"></i>
+                    <h4>Bluetooth Devices</h4>
+                    <p>Speakers, headsets, and other wireless solutions for seamless connectivity.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-grip-lines"></i>
+                    <h4>Neckbands</h4>
+                    <p>Comfortable and convenient audio solutions for on-the-go.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-charging-station"></i>
+                    <h4>Chargers & Cables</h4>
+                    <p>Fast charging solutions and durable cables for all devices.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-mobile-alt"></i>
+                    <h4>Phone Cases & Covers</h4>
+                    <p>Protect your device with our stylish and robust selection.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-palette"></i>
+                    <h4>Screen Protectors</h4>
+                    <p>Keep your display scratch-free with tempered glass and film protectors.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-sd-card"></i>
+                    <h4>Memory Cards & Drives</h4>
+                    <p>Expand your storage with reliable memory solutions.</p>
+                </div>
+                <div class="accessory-item animated-item">
+                    <i class="fas fa-car"></i>
+                    <h4>Car Accessories</h4>
+                    <p>Mounts, chargers, and more for convenience on the road.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="testimonials" class="testimonials-section fade-in-section">
+        <div class="container">
+            <h2>What Our Customers Say</h2>
+            <div class="testimonial-grid">
+                <div class="testimonial-item animated-item">
+                    <p class="quote">"Absolutely fantastic service! My phone screen was shattered, and Cellfix had it looking brand new within hours. Highly recommend their quick and professional repair."</p>
+                    <p class="author">- Priya S., Santacruz</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                </div>
+                <div class="testimonial-item animated-item">
+                    <p class="quote">"I needed a battery replacement for my old watch, and Cellfix did a great job. Very courteous staff and the price was fair. Will definitely return for future needs."</p>
+                    <p class="author">- Rahul M., Khar East</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i>
+                    </div>
+                </div>
+                <div class="testimonial-item animated-item">
+                    <p class="quote">"Bought a pre-owned phone here, and it works perfectly. The staff was very helpful in guiding me through the options. Great place for both sales and repairs."</p>
+                    <p class="author">- Amit K., Vile Parle</p>
+                    <div class="stars">
+                        <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="faq" class="faq-section fade-in-section">
+        <div class="container">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq-accordion">
+                <div class="faq-item animated-item">
+                    <button class="accordion-header">What types of devices do you repair?</button>
+                    <div class="accordion-content">
+                        <p>We repair all major brands of mobile phones, smartphones, smartwatches, and various types of traditional watches. If you're unsure about a specific device, please don't hesitate to call us!</p>
+                    </div>
+                </div>
+                <div class="faq-item animated-item">
+                    <button class="accordion-header">How long does a typical repair take?</button>
+                    <div class="accordion-content">
+                        <p>Most common repairs, like screen replacements and battery changes, can be completed within a few hours, often on the same day. More complex issues might require more time, but we'll provide an accurate estimated timeframe upon diagnosis.</p>
+                    </div>
+                </div>
+                <div class="faq-item animated-item">
+                    <button class="accordion-header">Do you use genuine parts?</button>
+                    <div class="accordion-content">
+                        <p>Yes, we prioritize using genuine or OEM (Original Equipment Manufacturer) quality parts for all repairs to ensure durability, optimal performance, and your satisfaction.</p>
+                    </div>
+                </div>
+                <div class="faq-item animated-item">
+                    <button class="accordion-header">Do you offer warranty on repairs?</button>
+                    <div class="accordion-content">
+                        <p>Absolutely! We stand by the quality of our work and offer a warranty on our repair services. The specific duration depends on the type of repair and part used. Please ask our staff for detailed warranty information.</p>
+                    </div>
+                </div>
+                <div class="faq-item animated-item">
+                    <button class="accordion-header">Can I get a quote before the repair?</button>
+                    <div class="accordion-content">
+                        <p>Certainly! We offer free diagnostics and will provide you with a transparent, no-obligation quote before proceeding with any repair work. There are no hidden charges.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="contact-section fade-in-section">
+        <div class="container">
+            <h2>Connect With Us</h2>
+            <div class="contact-grid">
+                <div class="contact-info animated-item">
+                    <h3>Visit Our Store</h3>
+                    <p><i class="fas fa-map-marker-alt"></i> <strong>Address:</strong> Shop No, Hex 40, 1/2, bridge, near Vakola, opposite Patuck college, Pratiksha Nagar, Vakola, Santacruz East, Mumbai, Maharashtra 400055</p>
+                    <p><i class="fas fa-phone"></i> <strong>Phone:</strong> <a href="tel:08286574143">082865 74143</a></p>
+                    <p><i class="fas fa-clock"></i> <strong>Hours:</strong> Open ⋅ Closes 10 pm</p>
+                    <p class="area-served"><strong>Areas Served:</strong> Khar East and nearby areas, including Santacruz East, Vile Parle, Bandra East, and Kurla.</p>
+                    <p class="note"><strong>Note:</strong> While our physical location is in Vakola, Santacruz East, Mumbai, we are easily accessible from Khar East and surrounding areas. We look forward to serving you!</p>
+                </div>
+                <div class="contact-form animated-item">
+                    <h3>Send Us a Message</h3>
+                    <!-- IMPORTANT: For a functional contact form that sends emails directly from the website without opening the user's mail client,
+                         you would need a server-side script (e.g., PHP, Node.js, Python, etc.) to handle the form submission and send the email.
+                         The 'mailto:' action below will open the user's default email client with pre-filled subject and body (from form fields). -->
+                    <form action="mailto:info@cellfix.com?subject=Website Inquiry" method="POST" enctype="text/plain">
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input type="text" id="name" name="Name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="Email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone (Optional)</label>
+                            <input type="tel" id="phone" name="Phone">
+                        </div>
+                        <div class="form-group">
+                            <label for="subject">Subject</label>
+                            <input type="text" id="subject" name="Subject" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="message">Your Message</label>
+                            <textarea id="message" name="Message" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="button">Send Message</button>
+                    </form>
+                </div>
+            </div>
+            <div class="google-map animated-item">
+                <!-- Google Map Embed - Centered on Patuck College (near Vakola location) -->
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.80332822165!2d72.85324541480112!3d19.072551487083167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c91a0c4f8d55%3A0x6b29b6e7d6b8b0e7!2sPatuck%20College%20of%20Commerce%20%26%20Science!5e0!3m2!1sen!2sin!4v1678912345678!5m2=1sen!2sin" width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col animated-item">
+                    <h3>Quick Links</h3>
+                    <ul>
+                        <li><a href="#home"><i class="fas fa-angle-right"></i> Home</a></li>
+                        <li><a href="#about"><i class="fas fa-angle-right"></i> About Us</a></li>
+                        <li><a href="#services"><i class="fas fa-angle-right"></i> Services</a></li>
+                        <li><a href="#process"><i class="fas fa-angle-right"></i> Our Process</a></li>
+                        <li><a href="#work"><i class="fas fa-angle-right"></i> Our Work</a></li>
+                        <li><a href="#accessories"><i class="fas fa-angle-right"></i> Accessories</a></li>
+                        <li><a href="#testimonials"><i class="fas fa-angle-right"></i> Testimonials</a></li>
+                        <li><a href="#faq"><i class="fas fa-angle-right"></i> FAQ</a></li>
+                        <li><a href="#contact"><i class="fas fa-angle-right"></i> Contact</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col animated-item">
+                    <h3>Opening Hours</h3>
+                    <p>Monday - Saturday: <span>10:00 AM - 10:00 PM</span></p>
+                    <p>Sunday: <span>Closed</span></p>
+                    <br>
+                    <p>Experience reliable service and quality products. We're here to help you stay connected!</p>
+                </div>
+
+                <div class="footer-col animated-item">
+                    <h3>Contact Info</h3>
+                    <p><i class="fas fa-phone"></i> <a href="tel:08286574143">082865 74143</a></p>
+                    <p><i class="fas fa-envelope"></i> <a href="mailto:info@cellfix.com">info@cellfix.com</a></p>
+                    <p><i class="fas fa-map-marker-alt"></i> Shop No, Hex 40, 1/2, bridge, near Vakola, Santacruz East, Mumbai, 400055</p>
+                </div>
+
+                <div class="footer-col newsletter-social animated-item">
+                    <h3>Stay Connected</h3>
+                    <p>Follow us on social media for updates and offers.</p>
+                    <div class="social-links">
+                        <a href="#" class="social-icon"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-instagram"></i></a>
+                        <a href="#" class="social-icon"><i class="fab fa-linkedin-in"></i></a>
+                    </div>
+                    <p class="copyright-info">&copy; 2023 Cellfix. All rights reserved. Designed with <i class="fas fa-heart"></i> by Your Name</p>
+                </div>
+            </div>
+        </div>
+    </footer>
